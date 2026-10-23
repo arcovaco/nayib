@@ -285,6 +285,7 @@ class PropertyDetailManager {
                                 <label>Mensaje</label>
                                 <textarea class="form-control" id="message" name="mensaje" rows="4">Estoy interesado en: ${property.title}</textarea>
                             </div>
+                            <p class="form-privacy">Al enviar, acepta nuestra <a href="privacidad.html">Política de Privacidad</a>.</p>
                             <div class="cf-turnstile" data-sitekey="${TURNSTILE_SITEKEY}"></div>
                             <button type="submit" class="btn-contact">Enviar Solicitud</button>
                             <p class="inquiry-status" role="status"></p>
@@ -506,6 +507,7 @@ class PropertyDetailManager {
                                 <div class="form-group"><label>Email</label><input class="form-control" type="email" name="email" required></div>
                                 <div class="form-group"><label>Teléfono</label><input class="form-control" name="telefono" required></div>
                                 <div class="form-group"><label>Mensaje</label><textarea class="form-control" name="mensaje" rows="4">Me interesa el solar en ${locationName}.</textarea></div>
+                                <p class="form-privacy">Al enviar, acepta nuestra <a href="privacidad.html">Política de Privacidad</a>.</p>
                                 <div class="cf-turnstile" data-sitekey="${TURNSTILE_SITEKEY}"></div>
                                 <button type="submit" class="btn-contact">Enviar</button>
                                 <p class="inquiry-status" role="status"></p>

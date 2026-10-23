@@ -2371,3 +2371,49 @@ a:focus {
 .partner_logo_box img[alt="COHESA"] {
   max-height: 150px !important;
 }
+
+/* Política de Privacidad */
+.privacy_section .privacy_content {
+  max-width: 820px;
+  margin: 0 auto;
+  color: #333;
+  line-height: 1.7;
+}
+
+.privacy_section .privacy_updated {
+  color: #777;
+  font-size: 14px;
+}
+
+.privacy_section h3 {
+  font-size: 20px;
+  margin: 32px 0 12px;
+  color: #0a3d62;
+}
+
+.privacy_section ul {
+  padding-left: 20px;
+}
+
+.privacy_section li {
+  margin-bottom: 6px;
+}
+
+.privacy_section a {
+  color: #0a3d62;
+  text-decoration: underline;
+  word-break: break-word;
+}
+
+/* Aviso de privacidad en los formularios */
+.form-privacy {
+  font-size: 12px;
+  line-height: 1.4;
+  margin: 8px 0;
+  opacity: 0.85;
+}
+
+.form-privacy a {
+  color: inherit;
+  text-decoration: underline;
+}
