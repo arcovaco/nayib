@@ -9,7 +9,7 @@ function config() {
   if (!token) throw new Error('GITHUB_TOKEN no configurado');
   return {
     token,
-    repo: process.env.GITHUB_REPO || 'JAOCruz/nayib',
+    repo: process.env.GITHUB_REPO || 'arcovaco/nayib',
     branch: process.env.GITHUB_BRANCH || 'feat/organization',
   };
 }
@@ -98,9 +98,9 @@ export function explainGitHubError(e, fallback) {
   const text = String(e?.message || '');
   if (e?.status === 401 || /Bad credentials/i.test(text)) return 'GitHub rechazó el token (GITHUB_TOKEN inválido o vencido).';
   if (e?.status === 403 && /not accessible by personal access token/i.test(text)) {
-    return 'El token de GitHub no tiene permiso de escritura: dale "Contents: Read and write" sobre JAOCruz/nayib.';
+    return 'El token de GitHub no tiene permiso de escritura: dale "Contents: Read and write" sobre arcovaco/nayib.';
   }
-  if (e?.status === 404) return 'El token de GitHub no tiene acceso al repositorio JAOCruz/nayib (revisa "Repository access").';
+  if (e?.status === 404) return 'El token de GitHub no tiene acceso al repositorio arcovaco/nayib (revisa "Repository access").';
   if (/GITHUB_TOKEN no configurado/.test(text)) return 'Falta configurar GITHUB_TOKEN en Netlify.';
   return `${fallback} (GitHub ${e?.status || '?'})`;
 }
