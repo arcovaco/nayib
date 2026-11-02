@@ -9070,6 +9070,14 @@
               "fondo_m": null,
               "precio_usd_m2": 2100,
               "estatus_legal": "CON TÍTULO"
+            },
+            {
+              "area_m2": 811,
+              "frente_m": 23,
+              "fondo_m": null,
+              "precio_usd_m2": 1850,
+              "estatus_legal": "A CONSULTAR",
+              "precio_total_usd": 1500350
             }
           ]
         },
@@ -10480,6 +10488,14 @@
               "precio_usd_m2": 1450,
               "precio_total_usd": 939600,
               "estatus_legal": "CON TÍTULO"
+            },
+            {
+              "area_m2": 648,
+              "frente_m": 24,
+              "fondo_m": null,
+              "precio_usd_m2": 1390,
+              "estatus_legal": "A CONSULTAR",
+              "precio_total_usd": 900720
             }
           ]
         },
@@ -11839,6 +11855,14 @@
               "precio_usd_m2": 1643.65,
               "precio_total_usd": 1190000,
               "estatus_legal": "A CONSULTAR"
+            },
+            {
+              "area_m2": 724,
+              "frente_m": 26,
+              "fondo_m": null,
+              "precio_usd_m2": 1657.46,
+              "estatus_legal": "A CONSULTAR",
+              "precio_total_usd": 1200001.04
             }
           ]
         },
@@ -13583,6 +13607,14 @@
               "frente_m": 600,
               "precio_usd_m2": 60,
               "estatus_legal": "CON TÍTULO"
+            },
+            {
+              "area_m2": 509000,
+              "frente_m": null,
+              "fondo_m": null,
+              "precio_usd_m2": 85,
+              "estatus_legal": "DOCUMENTACION EN ORDEN",
+              "precio_total_usd": 43265000
             }
           ]
         },
@@ -13852,6 +13884,105 @@
               "precio_usd_m2": 25,
               "estatus_legal": "A CONSULTAR",
               "precio_total_usd": 2200000
+            }
+          ]
+        },
+        {
+          "ubicacion": "AUTOPISTA 6 DE NOVIEMBRE",
+          "solares": [
+            {
+              "area_m2": 116000,
+              "frente_m": null,
+              "fondo_m": null,
+              "precio_usd_m2": 70,
+              "estatus_legal": "DESLINDADO",
+              "precio_total_usd": 8120000
+            }
+          ]
+        },
+        {
+          "ubicacion": "CIRCUNVALACION - ENTRE AUT. DUARTE Y AUT. 6 DE NOVIEMBRE",
+          "solares": [
+            {
+              "area_m2": 91000,
+              "frente_m": null,
+              "fondo_m": null,
+              "precio_usd_m2": 75,
+              "estatus_legal": "A CONSULTAR",
+              "precio_total_usd": 6825000
+            }
+          ]
+        },
+        {
+          "ubicacion": "CIRCUNVALACION NORTE",
+          "solares": [
+            {
+              "area_m2": 109000,
+              "frente_m": null,
+              "fondo_m": null,
+              "precio_usd_m2": 57,
+              "estatus_legal": "TÍTULO AZUL",
+              "precio_total_usd": 6213355.05
+            },
+            {
+              "area_m2": 52672,
+              "frente_m": null,
+              "fondo_m": null,
+              "precio_usd_m2": 45,
+              "estatus_legal": "DESLINDADO",
+              "precio_total_usd": 2370240
+            }
+          ]
+        },
+        {
+          "ubicacion": "CIRCUNVALACION SUR - ENTRE HAINA Y AUT. DUARTE",
+          "solares": [
+            {
+              "area_m2": 30000,
+              "frente_m": null,
+              "fondo_m": null,
+              "precio_usd_m2": 78,
+              "estatus_legal": "A CONSULTAR",
+              "precio_total_usd": 2340000
+            }
+          ]
+        },
+        {
+          "ubicacion": "CIRCUNVALACION SUR - ENTRE AUT. DUARTE Y HAINA",
+          "solares": [
+            {
+              "area_m2": 160000,
+              "frente_m": null,
+              "fondo_m": null,
+              "precio_usd_m2": 95,
+              "estatus_legal": "DESLINDADO",
+              "precio_total_usd": 15200000
+            }
+          ]
+        },
+        {
+          "ubicacion": "MATUA - PROX. AUTOPISTA DUARTE",
+          "solares": [
+            {
+              "area_m2": 2500,
+              "frente_m": null,
+              "fondo_m": null,
+              "precio_usd_m2": 36.18,
+              "estatus_legal": "A CONSULTAR",
+              "precio_total_usd": 90450
+            }
+          ]
+        },
+        {
+          "ubicacion": "SARASOTA",
+          "solares": [
+            {
+              "area_m2": 625,
+              "frente_m": 25,
+              "fondo_m": null,
+              "precio_usd_m2": 2560,
+              "estatus_legal": "A CONSULTAR",
+              "precio_total_usd": 1600000
             }
           ]
         }
