@@ -5,6 +5,42 @@
       "description": "Multifamiliares, estudios, Airbnb y terrenos. Oportunidades de inversión verificadas en el mercado dominicano.",
       "properties": [
         {
+          "currency": "USD",
+          "showPrice": true,
+          "status": "Disponible",
+          "features": [
+            "📐 Área: 64,158 m²",
+            "🏖️ Primera línea de playa",
+            "🌊 Frente directo al Océano Atlántico",
+            "🚗 Aproximadamente 35 minutos de Bávaro–Punta Cana",
+            "📍 Dirección hacia Miches",
+            "💵 Precio: US$110/m²",
+            "💰 VALOR TOTAL: US$7,057,380",
+            "✅ Gran extensión de terreno",
+            "✅ Ubicación con alto potencial turístico",
+            "✅ Ideal para desarrollo hotelero, residencial o vacacional",
+            "✅ Excelente oportunidad para inversionistas y desarrolladores",
+            "📲 Solicita más información o coordina una visita.",
+            "¡Excelente día!",
+            "Construye hoy el futuro que mereces.",
+            "LOWESS Real Estate🌆"
+          ],
+          "gallery": [
+            "/images/panel/prop-terreno-en-primera-linea-de-playa-hacia-w6azv/mwaw6azv-1.jpg",
+            "/images/panel/prop-terreno-en-primera-linea-de-playa-hacia-w6azv/mwaw6azv-2.jpg",
+            "/images/panel/prop-terreno-en-primera-linea-de-playa-hacia-w6azv/mwaw6azv-3.jpg"
+          ],
+          "id": "prop-terreno-en-primera-linea-de-playa-hacia-w6azv",
+          "title": "TERRENO EN PRIMERA LÍNEA DE PLAYA – HACIA MICHES",
+          "price": 7057380,
+          "location": "Miches, El Seibo",
+          "type": "Solar",
+          "area": "64,158 m²",
+          "description": "🌴🌊 TERRENO EN PRIMERA LÍNEA DE PLAYA – HACIA MICHES 🌊🌴\n\nExcelente oportunidad de inversión en la zona Este de la República Dominicana, con terreno ubicado directamente frente al mar y a aproximadamente 35 minutos de los hoteles de Bávaro–Punta Cana.",
+          "badge": "Punta Cana",
+          "image": "/images/panel/prop-terreno-en-primera-linea-de-playa-hacia-w6azv/mwaw6azv-1.jpg"
+        },
+        {
           "id": "prop-naco-luxury-001",
           "title": "Apartamentos de Lujo en Naco",
           "price": 179000,
