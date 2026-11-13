@@ -7,6 +7,48 @@
         {
           "currency": "USD",
           "showPrice": true,
+          "status": "En construcción",
+          "features": [
+            "🚗 Parqueos incluidos según la unidad",
+            "✨ Lobby corporativo",
+            "🤝 Salón de conferencias",
+            "🍽️ Comedor para empleados",
+            "🌿 Terrazas",
+            "📦 Lockers disponibles",
+            "🏢 Diseño arquitectónico moderno y de alto perfil",
+            "💰 PRECIOS DESDE US$390,000",
+            "📅 Entrega estimada: diciembre 2028",
+            "✅ Ubicación estratégica en Piantini",
+            "✅ Excelente conectividad y visibilidad",
+            "✅ Diferentes metrajes disponibles",
+            "✅ Ideal para sede empresarial o inversión corporativa",
+            "📲 Solicita disponibilidad, planos, precios y opciones de oficinas."
+          ],
+          "gallery": [
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-1.jpg",
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-2.jpg",
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-3.jpg",
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-4.jpg",
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-5.jpg",
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-6.jpg",
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-7.jpg",
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-8.jpg",
+            "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-9.jpg"
+          ],
+          "id": "prop-santo-domingo-oficinas-en-venta-en-piant-2wec1",
+          "title": "SANTO DOMINGO – OFICINAS EN VENTA EN PIANTINI",
+          "price": 390000,
+          "location": "Piantini, Santo Domingo",
+          "type": "Oficina",
+          "area": "75 - 636 m²",
+          "description": "🏢✨ SANTO DOMINGO – OFICINAS EN VENTA EN PIANTINI ✨🏢\n📍 Piantini, Santo Domingo\n\nNuevo proyecto empresarial premium diseñado para empresas, profesionales e inversionistas que buscan establecerse en uno de los principales centros corporativos de Santo Domingo.\n\n🏙️ 11 niveles + 6 soterrados\n📐 Espacios corporativos desde 75 m² hasta 636 m² netos",
+          "badge": "Piantini",
+          "delivery": "Diciembre 2028",
+          "image": "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-1.jpg"
+        },
+        {
+          "currency": "USD",
+          "showPrice": true,
           "status": "Disponible",
           "features": [
             "🛏️ 2 habitaciones",
@@ -14139,6 +14181,48 @@
       "status": "En construcción",
       "badge": "Destino Exclusivo",
       "thumb": "/images/thumbs/prop-cap-cana-001.jpg"
+    },
+    {
+      "currency": "USD",
+      "showPrice": true,
+      "status": "En construcción",
+      "features": [
+        "🚗 Parqueos incluidos según la unidad",
+        "✨ Lobby corporativo",
+        "🤝 Salón de conferencias",
+        "🍽️ Comedor para empleados",
+        "🌿 Terrazas",
+        "📦 Lockers disponibles",
+        "🏢 Diseño arquitectónico moderno y de alto perfil",
+        "💰 PRECIOS DESDE US$390,000",
+        "📅 Entrega estimada: diciembre 2028",
+        "✅ Ubicación estratégica en Piantini",
+        "✅ Excelente conectividad y visibilidad",
+        "✅ Diferentes metrajes disponibles",
+        "✅ Ideal para sede empresarial o inversión corporativa",
+        "📲 Solicita disponibilidad, planos, precios y opciones de oficinas."
+      ],
+      "gallery": [
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-1.jpg",
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-2.jpg",
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-3.jpg",
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-4.jpg",
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-5.jpg",
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-6.jpg",
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-7.jpg",
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-8.jpg",
+        "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-9.jpg"
+      ],
+      "id": "prop-santo-domingo-oficinas-en-venta-en-piant-2wec1",
+      "title": "SANTO DOMINGO – OFICINAS EN VENTA EN PIANTINI",
+      "price": 390000,
+      "location": "Piantini, Santo Domingo",
+      "type": "Oficina",
+      "area": "75 - 636 m²",
+      "description": "🏢✨ SANTO DOMINGO – OFICINAS EN VENTA EN PIANTINI ✨🏢\n📍 Piantini, Santo Domingo\n\nNuevo proyecto empresarial premium diseñado para empresas, profesionales e inversionistas que buscan establecerse en uno de los principales centros corporativos de Santo Domingo.\n\n🏙️ 11 niveles + 6 soterrados\n📐 Espacios corporativos desde 75 m² hasta 636 m² netos",
+      "badge": "Piantini",
+      "delivery": "Diciembre 2028",
+      "image": "/images/panel/prop-santo-domingo-oficinas-en-venta-en-piant-2wec1/mwf2wec1-1.jpg"
     }
   ]
 }
